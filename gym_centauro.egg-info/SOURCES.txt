@@ -1,0 +1,5 @@
+gym_centauro.egg-info/PKG-INFO
+gym_centauro.egg-info/SOURCES.txt
+gym_centauro.egg-info/dependency_links.txt
+gym_centauro.egg-info/requires.txt
+gym_centauro.egg-info/top_level.txt
